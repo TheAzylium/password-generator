@@ -23,7 +23,7 @@ i18n
       it: { translation: itTranslate },
     },
     fallbackLng: 'en',
-    debug: true,
+    debug: false,
     interpolation: {
       escapeValue: false,
     },

@@ -10,7 +10,7 @@ const LanguageSelector = () => {
       label: (
         <>
           <img
-            src="/flags/united-kingdom.png"
+            src="flags/united-kingdom.png"
             alt="English"
             className="inline h-4 mr-1"
           />{' '}
@@ -23,7 +23,7 @@ const LanguageSelector = () => {
       label: (
         <>
           <img
-            src="/flags/france.png"
+            src="flags/france.png"
             alt="Français"
             className="inline h-4 mr-1"
           />{' '}
@@ -36,7 +36,7 @@ const LanguageSelector = () => {
       label: (
         <>
           <img
-            src="/flags/germany.png"
+            src="flags/germany.png"
             alt="Deutsch"
             className="inline h-4 mr-1"
           />{' '}
@@ -49,7 +49,7 @@ const LanguageSelector = () => {
       label: (
         <>
           <img
-            src="/flags/spain.png"
+            src="flags/spain.png"
             alt="Español"
             className="inline h-4 mr-1"
           />{' '}
@@ -62,7 +62,7 @@ const LanguageSelector = () => {
       label: (
         <>
           <img
-            src="/flags/italy.png"
+            src="flags/italy.png"
             alt="Italiano"
             className="inline h-4 mr-1"
           />{' '}
@@ -75,7 +75,7 @@ const LanguageSelector = () => {
       label: (
         <>
           <img
-            src="/flags/portugal.png"
+            src="flags/portugal.png"
             alt="Português"
             className="inline h-4 mr-1"
           />{' '}
