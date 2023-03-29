@@ -1,0 +1,18 @@
+{
+  "title": "Generatore di password",
+  "generatePassword": "Generare",
+  "passwordGenerated": "Password generata:",
+  "copyToClipboard": "Copia negli appunti",
+  "copied": "Copiato!",
+  "darkMode": "Modalità scura",
+  "lightMode": "Modalità chiara",
+  "length": "Lunghezza",
+  "options": {
+    "lowercase": "Alfabeto minuscolo",
+    "numbers": "Numeri",
+    "uppercase": "Alfabeto maiuscolo",
+    "symbols": "Simboli",
+    "spaces": "Includi spazi",
+    "noDuplicates": "Nessun duplicato"
+  }
+}

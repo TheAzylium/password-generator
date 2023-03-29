@@ -1,0 +1,18 @@
+{
+  "title": "Generador de contraseñas",
+  "generatePassword": "Generar",
+  "passwordGenerated": "Contraseña generada:",
+  "copyToClipboard": "Copiar al portapapeles",
+  "copied": "¡Copiado!",
+  "darkMode": "Modo oscuro",
+  "lightMode": "Modo claro",
+  "length": "Longitud",
+  "options": {
+    "lowercase": "Alfabeto en minúsculas",
+    "numbers": "Números",
+    "uppercase": "Alfabeto en mayúsculas",
+    "symbols": "Símbolos",
+    "spaces": "Incluir espacios",
+    "noDuplicates": "No duplicados"
+  }
+}

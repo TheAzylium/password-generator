@@ -1,0 +1,18 @@
+{
+  "title": "Générateur de mot de passe",
+  "generatePassword": "Générer",
+  "passwordGenerated": "Mot de passe généré :",
+  "copyToClipboard": "Copier dans le presse-papier",
+  "copied": "Copié !",
+  "darkMode": "Mode sombre",
+  "lightMode": "Mode clair",
+  "length": "Longueur",
+  "options": {
+    "lowercase": "Alphabet minuscule",
+    "numbers": "Nombres",
+    "uppercase": "Alphabet majuscule",
+    "symbols": "Symboles",
+    "spaces": "Inclure les espaces",
+    "noDuplicates": "Pas de doublons"
+  }
+}

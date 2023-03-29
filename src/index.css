@@ -1,0 +1,27 @@
+.tooltip {
+  @apply absolute bg-gray-800 text-white text-xs rounded px-2 py-1 opacity-0 invisible transition-all duration-300;
+}
+
+.tooltip.show {
+  @apply opacity-100 visible;
+}
+
+.dark {
+  @apply bg-gray-800 text-white;
+}
+
+.dark .border-gray-300 {
+  @apply border-gray-600;
+}
+
+.dark .bg-white {
+  @apply bg-gray-900;
+}
+
+.dark .text-gray-800 {
+  @apply text-gray-300;
+}
+
+img {
+  vertical-align: middle;
+}

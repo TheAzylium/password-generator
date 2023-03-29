@@ -1,0 +1,18 @@
+{
+  "title": "Password Generator",
+  "generatePassword": "Generate",
+  "passwordGenerated": "Generated password:",
+  "copyToClipboard": "Copy to clipboard",
+  "copied": "Copied!",
+  "darkMode": "Dark mode",
+  "lightMode": "Light mode",
+  "length": "Length",
+  "options": {
+    "lowercase": "Alphabet",
+    "numbers": "Numbers",
+    "uppercase": "Uppercase Alphabet",
+    "symbols": "Symbols",
+    "spaces": "Include Spaces",
+    "noDuplicates": "No Duplicates"
+  }
+}

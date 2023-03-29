@@ -1,0 +1,18 @@
+{
+  "title": "Gerador de senhas",
+  "generatePassword": "Gerar",
+  "passwordGenerated": "Senha gerada:",
+  "copyToClipboard": "Copiar para a área de transferência",
+  "copied": "Copiado!",
+  "darkMode": "Modo escuro",
+  "lightMode": "Modo claro",
+  "length": "Comprimento",
+  "options": {
+    "lowercase": "Alfabeto em minúsculas",
+    "numbers": "Números",
+    "uppercase": "Alfabeto em maiúsculas",
+    "symbols": "Símbolos",
+    "spaces": "Incluir espaços",
+    "noDuplicates": "Sem duplicatas"
+  }
+}
