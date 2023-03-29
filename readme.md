@@ -31,7 +31,7 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 
 ### License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/TheAzylium/password-generator/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/TheAzylium/password-generator/blob/master/LICENSE) file for details.
 
 ---
 
@@ -68,4 +68,4 @@ Les contributions sont les bienvenues ! Veuillez ouvrir une issue ou soumettre u
 
 ### Licence
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](https://github.com/TheAzylium/password-generator/blob/main/LICENSE) pour plus de détails.
+Ce projet est sous licence MIT. Voir le fichier [LICENSE](https://github.com/TheAzylium/password-generator/blob/master/LICENSE) pour plus de détails.
