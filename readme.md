@@ -13,11 +13,11 @@ This is a simple password generator web app built with React.
 
 ### Demo
 
-You can see a live demo of the app [here](https://your-github-username.github.io/password-generator/).
+You can see a live demo of the app [here](https://theazylium.github.io/password-generator/).
 
 ### Installation
 
-1. Clone the repo: `git clone https://github.com/your-github-username/password-generator.git`
+1. Clone the repo: `git clone https://github.com/TheAzylium/password-generator.git`
 2. Install dependencies: `npm install`
 3. Start the app: `npm start`
 
@@ -31,7 +31,7 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 
 ### License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/your-github-username/password-generator/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/TheAzylium/password-generator/blob/main/LICENSE) file for details.
 
 ---
 
@@ -50,11 +50,11 @@ Ceci est une application web de génération de mot de passe simple construite a
 
 ### Démo
 
-Vous pouvez voir une démo en direct de l'application [ici](https://votre-nom-d-utilisateur-github.github.io/password-generator/).
+Vous pouvez voir une démo en direct de l'application [ici](https://theazylium.github.io/password-generator/).
 
 ### Installation
 
-1. Clonez le repo : `git clone https://github.com/votre-nom-d-utilisateur-github/password-generator.git`
+1. Clonez le repo : `git clone https://github.com/TheAzylium/password-generator.git`
 2. Installez les dépendances : `npm install`
 3. Démarrez l'application : `npm start`
 
@@ -68,4 +68,4 @@ Les contributions sont les bienvenues ! Veuillez ouvrir une issue ou soumettre u
 
 ### Licence
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](https://github.com/votre-nom-d-utilisateur-github/password-generator/blob/main/LICENSE) pour plus de détails.
+Ce projet est sous licence MIT. Voir le fichier [LICENSE](https://github.com/TheAzylium/password-generator/blob/main/LICENSE) pour plus de détails.
